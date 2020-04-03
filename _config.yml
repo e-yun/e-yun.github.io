@@ -2,7 +2,7 @@
 title: Pilot Eric
 email:
 url: https://e-yun.github.io
-description: "Hi! I'm Eric and I am a pilot-in-training. Follow me as I document my journey to becoming an airline pilot."
+description: "Hi! I'm Eric and I am a pilot in training. Follow me as I document my journey to becoming an airline pilot."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -14,10 +14,10 @@ footer: Eric Yun
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/iEricYun
   - title: facebook
     url: https://www.facebook.com/ericyun
+  - title: twitter
+    url: https://twitter.com/iEricYun
   - title: linkedin
     url: https://www.linkedin.com/in/ericyun
   - title: instagram
