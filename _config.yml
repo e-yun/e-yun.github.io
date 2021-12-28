@@ -11,31 +11,32 @@ background: 'background.jpg'
 favicon: 'favicon.ico'
 
 # Online profiles
+#blog_url: 'myblog.blog.com'
+#codepen: ''
 #dribbble: 'mydribbble'
-Facebook: 'ericyun'
-Twitter: 'EricJYun'
-LinkedIn: 'ericyun'
-Instagram: 'itsericyun'
-#pinterest: 'mypinterest'
-#youtube: 'myyoutube'
+#email: 'hello@example.com'
+facebook: 'ericyun'
 #github-user: 'mygithub'
 #gitlab-user: ''
-#codepen: ''
-#steam: ''
-#soundcloud: ''
+instagram: 'itsericyun'
 #lastfm: ''
-#stack-overflow: ''
+linkedin: 'ericyun'
+#medium:  ''
+messenger: 'ericyun'
+#pinterest: 'mypinterest'
 #reddit: ''
 #rubygems: ''
-#medium:  ''
+#snapchat: 'ericyun'
+#soundcloud: ''
+#stack-overflow: ''
+#steam: ''
 #tumblr: 'mytumblr'
-#weibo: 'myweibo'
+twitter: 'EricJYun'
 #vk: 'myvk'
-#blog_url: 'myblog.blog.com'
-#email: 'hello@example.com'
-Messenger: 'ericyun'
+#weibo: 'myweibo'
+#youtube: 'myyoutube'
 
-social-links-order: [github-user, Facebook, Twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
+social-links-order: [github-user, Facebook, Twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, snapchat, email]
 
 # Yaml manifest of supported social links
 # Requirements:
@@ -57,14 +58,14 @@ social-links-order: [github-user, Facebook, Twitter, instagram, tumblr, pinteres
 #     - defaults to `fab` style and uses value of `name` attribute (e.g. fab fa-2x fa-twitter)
 #     - **optional**
 social-links:
-  - name: Facebook
+  - name: facebook
     url-pattern: facebook.com/__USERNAME__
     icon-class: fab fa-2x fa-facebook-f
 
-  - name: Twitter
+  - name: twitter
     url-pattern: twitter.com/__USERNAME__
 
-  - name: LinkedIn
+  - name: linkedin
     url-pattern: linkedin.com/in/__USERNAME__
 
   - name: google-plus
@@ -76,7 +77,7 @@ social-links:
   - name: weibo
     url-pattern: weibo.com/__USERNAME__
 
-  - name: Instagram
+  - name: instagram
     url-pattern: instagram.com/__USERNAME__
 
   - name: flickr
@@ -133,7 +134,7 @@ social-links:
   - name: keybase
     url-pattern: keybase.io/__USERNAME__
 
-  - name: Messenger
+  - name: messenger
     url-pattern: m.me/__USERNAME__
     icon-class: fab fa-2x fa-facebook-messenger
 
