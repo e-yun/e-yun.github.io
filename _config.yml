@@ -59,14 +59,14 @@ social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinteres
 #     - **optional**
 social-links:
   - name: facebook
-    url-pattern: facebook.com/__USERNAME__
+    url-pattern: www.facebook.com/__USERNAME__
     icon-class: fab fa-2x fa-facebook-f
 
   - name: twitter
     url-pattern: twitter.com/__USERNAME__
 
   - name: linkedin
-    url-pattern: linkedin.com/in/__USERNAME__
+    url-pattern: www.linkedin.com/in/__USERNAME__
 
   - name: google-plus
     url-pattern: plus.google.com/+__USERNAME__
@@ -78,7 +78,7 @@ social-links:
     url-pattern: weibo.com/__USERNAME__
 
   - name: instagram
-    url-pattern: instagram.com/__USERNAME__
+    url-pattern: www.instagram.com/__USERNAME__
 
   - name: flickr
     url-pattern: flickr.com/__USERNAME__
@@ -142,7 +142,7 @@ social-links:
     url-pattern: telegram.me/__USERNAME__
 
   - name: snapchat
-    url-pattern: snapchat.com/add/__USERNAME__
+    url-pattern: www.snapchat.com/add/__USERNAME__
 
   - name: quora
     url-pattern: www.quora.com/profile/__USERNAME__
