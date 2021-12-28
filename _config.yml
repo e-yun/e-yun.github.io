@@ -12,10 +12,10 @@ favicon: 'favicon.ico'
 
 # Online profiles
 #dribbble: 'mydribbble'
-facebook: 'ericyun'
-twitter: 'EricJYun'
-linkedin: 'ericyun'
-instagram: 'itsericyun'
+Facebook: 'ericyun'
+Twitter: 'EricJYun'
+LinkedIn: 'ericyun'
+Instagram: 'itsericyun'
 #pinterest: 'mypinterest'
 #youtube: 'myyoutube'
 #github-user: 'mygithub'
@@ -33,7 +33,7 @@ instagram: 'itsericyun'
 #vk: 'myvk'
 #blog_url: 'myblog.blog.com'
 #email: 'hello@example.com'
-messenger: 'ericyun'
+Messenger: 'ericyun'
 
 social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
 
