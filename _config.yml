@@ -57,14 +57,14 @@ social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinteres
 #     - defaults to `fab` style and uses value of `name` attribute (e.g. fab fa-2x fa-twitter)
 #     - **optional**
 social-links:
-  - name: facebook
+  - name: Facebook
     url-pattern: facebook.com/__USERNAME__
     icon-class: fab fa-2x fa-facebook-f
 
-  - name: twitter
+  - name: Twitter
     url-pattern: twitter.com/__USERNAME__
 
-  - name: linkedin
+  - name: LinkedIn
     url-pattern: linkedin.com/in/__USERNAME__
 
   - name: google-plus
@@ -76,7 +76,7 @@ social-links:
   - name: weibo
     url-pattern: weibo.com/__USERNAME__
 
-  - name: instagram
+  - name: Instagram
     url-pattern: instagram.com/__USERNAME__
 
   - name: flickr
@@ -133,7 +133,7 @@ social-links:
   - name: keybase
     url-pattern: keybase.io/__USERNAME__
 
-  - name: messenger
+  - name: Messenger
     url-pattern: m.me/__USERNAME__
     icon-class: fab fa-2x fa-facebook-messenger
 
