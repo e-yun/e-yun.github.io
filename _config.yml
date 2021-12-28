@@ -26,7 +26,7 @@ messenger: 'ericyun'
 #pinterest: 'mypinterest'
 #reddit: ''
 #rubygems: ''
-#snapchat: 'ericyun'
+snapchat: 'ericyun'
 #soundcloud: ''
 #stack-overflow: ''
 #steam: ''
@@ -36,7 +36,7 @@ twitter: 'EricJYun'
 #weibo: 'myweibo'
 #youtube: 'myyoutube'
 
-social-links-order: [github-user, Facebook, Twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, snapchat, email]
+social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, snapchat, email]
 
 # Yaml manifest of supported social links
 # Requirements:
